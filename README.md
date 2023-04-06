@@ -9,3 +9,4 @@
 | [NodeJS Essential Training](/certificates/nodejs_essential_training_230123.pdf)        | LinkedInLearning      | 2023-01-23     |
 | [Python Programming](/certificates/python_programming_150223.pdf)                      | BBC Internal Training | 2023-02-15     |
 | [Learning Bash Scripting](/certificates/learning_bash_scripting_160323.pdf)            | LinkedIn Learning     | 2023-03-16     |
+| [Git Intermediate Techniques](/certificates/git_intermediate_techniques_060423.pdf)    | LinkedIn Learning     | 2023-04-06     |
