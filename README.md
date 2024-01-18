@@ -12,3 +12,4 @@
 | [Git Intermediate Techniques](/certificates/git_intermediate_techniques_060423.pdf)    | LinkedIn Learning     | 2023-04-06     |
 | [Learning AWS Lambda](/certificates/learning_aws_lambda_210423.pdf)                    | LinkedIn Learning     | 2023-04-21     |
 | [Essential Docker (3 Day)](/certificates/docker_training_260423.pdf)                   | BBC Internal Training | 2023-04-26     |
+| [Node JS (3 Day)](/certificates/nodejs_180124.pdf)                                     | BBC Internal Training | 2024-01-18     |
